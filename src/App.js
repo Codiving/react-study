@@ -1,4 +1,10 @@
+import State from "components/State";
+
 const App = () => {
-  return <div>React 뿌시기</div>;
+  return (
+    <div>
+      <State />
+    </div>
+  );
 };
 export default App;
