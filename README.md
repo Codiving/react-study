@@ -4,9 +4,9 @@ React에 대한 기본적인 개념과 사용하는 방법에 대해 알아봅�
 
 ## 목차 
 
-- [ ] CRA를 이용하여 React 프로젝트 생성하기 및 기본 설정 (절대경로)
-- [ ] React 꾸미기 (material-ui 연동)
-- [ ] 중요한 변수는 state로 관리하자 (useState)
+- [x] CRA를 이용하여 React 프로젝트 생성하기 및 기본 설정 (절대경로)
+- [x] React 꾸미기 (material-ui 연동)
+- [x] 중요한 변수는 state로 관리하자 (useState)
 - [ ] 누구도 가르쳐주지 않는 useState 비밀 (useState)
 - [ ] React로 만드는 ToDoList (useState)
 - [ ] DOM에 접근하고 싶어 ... (useRef)
